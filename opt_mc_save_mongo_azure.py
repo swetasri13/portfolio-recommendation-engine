@@ -120,9 +120,9 @@ plt.savefig(filename)
 
 # In[39]:
 
-storage_account_key = "qqf/6ZA1lakLtIA2UTDnf24HpnKWGqo8MHkFIrnLLMQORfCb3L0HkdIn7HFgqmRfi2YbiwmiEb/r+AStdIeCiw=="
+storage_account_key = "Ask me"
 storage_account_name = "storageopt1"
-connection_string = "DefaultEndpointsProtocol=https;AccountName=storageopt1;AccountKey=kyMbqVtxuX8Dh46ppQaMM1F2FN+wJ3PWX1kIuEqlzN1BgkLSZx9vdTxj/m21EqxKMsiRL704hqpn+AStbM9LFg==;EndpointSuffix=core.windows.net"
+connection_string = "Ask me"
 container_name = "images"
 
 def uploadToBlobStorage(file_path,file_name):
